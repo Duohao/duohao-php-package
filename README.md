@@ -1,0 +1,4 @@
+######
+
+
+`duohao\Providers\DuohaoProvider::class`

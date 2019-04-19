@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "duohao\\": "src"
+      "duohao\\": "duohao/src/"
     }
   }
 }

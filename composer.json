@@ -3,7 +3,7 @@
   "description": "a laravel packgae",
   "type": "library",
   "require": {
-    "php": "^7.2"
+    "php": "^7.1"
   },
   "extra": {
     "laravel": {

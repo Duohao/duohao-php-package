@@ -2,7 +2,9 @@
   "name": "duohao/duohao",
   "description": "a laravel packgae",
   "type": "library",
-  "require": {},
+  "require": {
+    "php": "^7.2"
+  },
   "extra": {
     "laravel": {
       "providers": [

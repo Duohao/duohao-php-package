@@ -3,18 +3,19 @@
   "description": "a laravel packgae",
   "type": "library",
   "require": {
-    "php": "^7.1"
+    "php": "^7.1",
+    "laravel/framework": "~5.8.0|~5.9.0"
   },
   "extra": {
     "laravel": {
       "providers": [
-        "duohao\\Providers\\duohaoServiceProvider"
+        "duohao\\duohao\\Providers\\duohaoServiceProvider"
       ]
     }
   },
   "autoload": {
     "psr-4": {
-      "duohao\\": "duohao/src/"
+      "duohao\\duohao\\": "src/"
     }
   }
 }

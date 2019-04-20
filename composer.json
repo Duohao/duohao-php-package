@@ -9,13 +9,13 @@
   "extra": {
     "laravel": {
       "providers": [
-        "duohao\\duohao\\Providers\\duohaoServiceProvider"
+        "duohao\\Providers\\duohaoServiceProvider"
       ]
     }
   },
   "autoload": {
     "psr-4": {
-      "duohao\\duohao\\": "src/"
+      "duohao\\": "src/"
     }
   }
 }

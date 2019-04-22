@@ -9,7 +9,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "duohao\\Providers\\duohaoServiceProvider"
+        "Duohao\\Providers\\DuohaoServiceProvider"
       ]
     }
   },

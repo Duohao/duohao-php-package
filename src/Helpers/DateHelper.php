@@ -1,5 +1,5 @@
 <?php
-namespace StandardLibary\Helpers;
+namespace Duohao\Helpers;
 
 class DateHelper
 {

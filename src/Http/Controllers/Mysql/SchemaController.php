@@ -1,5 +1,5 @@
 <?php
-namespace Std\Http\Controllers\Scheme;
+namespace Duohao\Http\Controllers\Scheme;
 
 use DB;
 use Illuminate\Http\Request;

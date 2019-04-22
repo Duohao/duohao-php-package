@@ -1,9 +1,9 @@
 <?php
-namespace duohao\Providers;
+namespace Duohao\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
-class duohaoServiceProvider extends ServiceProvider
+class DuohaoServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap services.
